@@ -36,9 +36,7 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# ML artifacts (large binary files — train locally)
-artifacts/model.pkl
-artifacts/preprocessor.pkl
+
 
 # Logs
 logs/
