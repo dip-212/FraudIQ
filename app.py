@@ -1,6 +1,8 @@
 import os
 import sys
 
+"siu"
+
 from flask import Flask, request, render_template
 
 from src.pipeline.predict_pipeline import PredictPipeline, TransactionData
